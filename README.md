@@ -3,8 +3,10 @@
 This program has been prepared in cooperation with UpSchool and Google Developers.
 
 ### What does this program include?
+
 - **12 Hours of Technical Education per week**
-  -  Prepared by Andrew NG, founder of Coursera and one of the founding members of the Google Brain team and his colleagues online education combining theory and practice in the field of Machine Learning and support lesson sessions with the help of TAs.
+  - Prepared by Andrew NG, founder of Coursera and one of the founding members of the Google Brain team and his colleagues online education combining theory and practice in the field of Machine Learning and support lesson sessions with the help of TAs.
+  - Live Coding Session by Tuna ÇAKAR
 
 - **1 Hour Self Confidence Training per week**
   - Trainings where we will gain Core Skills; CV preparation, interview preparation trainings
@@ -15,22 +17,36 @@ This program has been prepared in cooperation with UpSchool and Google Developer
 - **Community Support**
   - Mentoring process that continues after employment
   - Engaging in the UP School Alumni network
-  - Providing mentorship support to new students and 
+  - Providing mentorship support to new students and
   - The right to participate in UP School Graduate training and activities
   
 ### Google Certificates We'll Get in the Program
-| ![](Pictures/gcp_data_engineer.png)      | ![](Pictures/tf.png)   | ![](Pictures/gcp_ml_engineer.png)          |
+
+| ![Google Cloud Certified - Data Engineer](Pictures/gcp_ml_engineer.png)      | ![TensorFlow Certificate](Pictures/tf.png)   | ![Google Cloud Certified Data Engineer](Pictures/gcp_data_engineer.png)          |
 |------------------------------------------|------------------------|--------------------------------------------|
 | GCP Professional ML Engineer Certificate | TensorFlow Certificate | GCP Professional Data Engineer Certificate |
 
 ### How will our 1 week be in the program?
-- _Monday_: Self-Confidence Education - 1 Hour
-- _Tuesday_: Coding Practice Course - 1 Hour
+
+- _Monday_: Core Skills - 1 Hour
+- _Tuesday_: Live Coding Session - 1 Hour
 - _Thursday_: Office Hours - 1 Hour
 - _The Whole Week_:
   - Online Google Coursera Course - 10 Hours
+    - ***Deep Learning Specialization***
+      - [01 - Neural Networks and Deep Learning](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/tree/main/Deep%20Learning%20Specialization/01%20-%20Neural%20Networks%20-%20Deep%20Learning)
+      - [02 - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/tree/main/Deep%20Learning%20Specialization/02%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization)
+      - 03 - Structuring Machine Learning Projects
+      - 04 - Convolutional Neural Networks
+      - 05 - Sequence Models
+    - ***Professional Certificate in DeepLearning.AI TensorFlow Developer***
+      - 01 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+      - 02 - Convolutional Neural Networks in TensorFlow
+      - 03 - Natural Language Processing in TensorFlow
+      - 04 - Sequences, Time Series and Prediction
 
 ### How did I get the right to participate in the training?
+
 - I registered on the dates when the application processes were received. On June 9, 2022, I learned by e-mail that I had successfully passed the online form stage.
  ![](Stage_Pictures/01_online_form_result.png)
 - Then I took a 40-minute online English test and an 80-minute technical test. The technical test included Python programming and Machine Learning. On July 1, 2022, I learned by this email that I am eligible for interviews.
