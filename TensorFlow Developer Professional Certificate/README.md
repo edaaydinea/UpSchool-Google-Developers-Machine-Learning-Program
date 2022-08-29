@@ -15,6 +15,7 @@ Prepared by Eda AYDIN
 
 - **Weeks**
   1. A New Programming Paradigm
+     1. [Ungraded Lab Assignment - Hello World](C1)
   2. Introduction to Computer Vision
   3. Enhancing Vision with Convolutional Neural Networks
   4. Using Real-world Images
