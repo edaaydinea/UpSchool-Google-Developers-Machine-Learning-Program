@@ -7,7 +7,7 @@ Prepared by Eda AYDIN
 - [Deep Learning Specialization](#deep-learning-specialization)
   - [Table of Contents](#table-of-contents)
   - [01 - Neural Networks - Deep Learning ✅](#01---neural-networks---deep-learning-)
-  - [02 - Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimization](#02---improving-deep-neural-networks-hyperparameter-tuning-regularization-and-optimization)
+  - [02 - Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimization ✅](#02---improving-deep-neural-networks-hyperparameter-tuning-regularization-and-optimization)
   - [03 - Structuring Machine Learning Projects](#03---structuring-machine-learning-projects)
   - [04 - Convolutional Neural Networks](#04---convolutional-neural-networks)
   - [05 - Sequence Models](#05---sequence-models)
@@ -34,8 +34,8 @@ Prepared by Eda AYDIN
      1. [Initialization](02%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning,%20Regularization%20and%20Optimization/Week%2001/Initialization.ipynb)
      2. [Regularization](02%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning,%20Regularization%20and%20Optimization/Week%2001/Regularization.ipynb)
      3. [Gradient Checking](02%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning,%20Regularization%20and%20Optimization/Week%2001/Gradient_Checking.ipynb)
-  2. Optimization Algorithms 
-  3. Hyperparameter Tuning, Batch Normalization and Programming Frameworks 
+  2. Optimization Algorithms ✅
+  3. Hyperparameter Tuning, Batch Normalization and Programming Frameworks ✅
 
 ## 03 - Structuring Machine Learning Projects
 
