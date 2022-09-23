@@ -35,7 +35,10 @@ Prepared by Eda AYDIN
      2. [Regularization](02%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning,%20Regularization%20and%20Optimization/Week%2001/Regularization.ipynb)
      3. [Gradient Checking](02%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning,%20Regularization%20and%20Optimization/Week%2001/Gradient_Checking.ipynb)
   2. Optimization Algorithms ✅
+     1. [Optimization Methods](02%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning,%20Regularization%20and%20Optimization/Week%2002/Optimization_methods.ipynb)
   3. Hyperparameter Tuning, Batch Normalization and Programming Frameworks ✅
+     1. [TensorFlow - Exercises](02%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning,%20Regularization%20and%20Optimization/Week%2003/TensorFlow.ipynb)
+     2. [TensorFlow - Introduction](02%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning,%20Regularization%20and%20Optimization/Week%2003/Tensorflow_introduction.ipynb)
 
 ## 03 - Structuring Machine Learning Projects
 
