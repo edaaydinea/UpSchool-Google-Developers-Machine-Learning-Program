@@ -28,9 +28,10 @@ This program has been prepared in cooperation with UpSchool and Google Developer
 
 ### How will our 1 week be in the program?
 
-- _Monday_: Core Skills - 1 Hour
-- _Tuesday_: Live Coding Session - 1 Hour
-- _Thursday_: Office Hours - 1 Hour
+- _Monday_: Live Coding Session - 1 hour
+- _Monday_: Core Skills: 1 hour
+- _Wednesday_: Theoretical Foundations - 1.5 hours
+- _Thursday_ : Project Meeting - 1 hour
 - _The Whole Week_:
   - Online Google Coursera Course - 10 Hours
     - ***Deep Learning Specialization***
