@@ -22,13 +22,13 @@ This program has been prepared in cooperation with UpSchool and Google Developer
   
 ### Google Certificates We'll Get in the Program
 
-| ![Google Cloud Certified - Data Engineer](Pictures/gcp_ml_engineer.png)      | ![TensorFlow Certificate](Pictures/tf.png)   | ![Google Cloud Certified Data Engineer](Pictures/gcp_data_engineer.png)          |
-|------------------------------------------|------------------------|--------------------------------------------|
-| GCP Professional ML Engineer Certificate | TensorFlow Certificate | GCP Professional Data Engineer Certificate |
+| ![Google Cloud Certified - Data Engineer](Pictures/gcp_ml_engineer.png) | ![TensorFlow Certificate](Pictures/tf.png) | ![Google Cloud Certified Data Engineer](Pictures/gcp_data_engineer.png) |
+|-------------------------------------------------------------------------|--------------------------------------------|-------------------------------------------------------------------------|
+| GCP Professional ML Engineer Certificate                                | TensorFlow Certificate                     | GCP Professional Data Engineer Certificate                              |
 
 ### How will our 1 week be in the program?
 
-- _Monday_: Live Coding Session - 1 hour
+- _Monday_: Live Coding Session - 1.5 hour
 - _Monday_: Core Skills: 1 hour
 - _Wednesday_: Theoretical Foundations - 1.5 hours
 - _Thursday_ : Project Meeting - 1 hour
@@ -41,7 +41,7 @@ This program has been prepared in cooperation with UpSchool and Google Developer
       - 04 - Convolutional Neural Networks
       - 05 - Sequence Models
     - ***Professional Certificate in DeepLearning.AI TensorFlow Developer***
-      - 01 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+      - [01 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/d17b680840c89eddbbb86d84f068b081589f6610/TensorFlow%20Developer%20Professional%20Certificate/01%20-%20Introduction%20to%20TensorFlow%20for%20AI,%20ML%20and%20DL)
       - 02 - Convolutional Neural Networks in TensorFlow
       - 03 - Natural Language Processing in TensorFlow
       - 04 - Sequences, Time Series and Prediction
