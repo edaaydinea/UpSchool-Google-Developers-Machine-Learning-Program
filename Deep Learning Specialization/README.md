@@ -11,6 +11,7 @@ Prepared by Eda AYDIN
   - [03 - Structuring Machine Learning Projects](#03---structuring-machine-learning-projects)
   - [04 - Convolutional Neural Networks](#04---convolutional-neural-networks)
   - [05 - Sequence Models](#05---sequence-models)
+- [Certificates](#-certificates)
 
 ## 01 - Neural Networks - Deep Learning ✅
 
@@ -27,7 +28,7 @@ Prepared by Eda AYDIN
      1. [Deep Neural Networks - Applications](01%20-%20Neural%20Networks%20-%20Deep%20Learning/Week%2004/Deep%20Neural%20Network%20-%20Application.ipynb)
      2. [Building your Deep Neural Networks Step by Step](01%20-%20Neural%20Networks%20-%20Deep%20Learning/Week%2004/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
 
-## 02 - Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimization
+## 02 - Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimization ✅
 
 - **Weeks**
   1. Practical Aspects of Deep Learning  ✅
@@ -40,11 +41,18 @@ Prepared by Eda AYDIN
      1. [TensorFlow - Exercises](02%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning,%20Regularization%20and%20Optimization/Week%2003/TensorFlow.ipynb)
      2. [TensorFlow - Introduction](02%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning,%20Regularization%20and%20Optimization/Week%2003/Tensorflow_introduction.ipynb)
 
-## 03 - Structuring Machine Learning Projects
+## 03 - Structuring Machine Learning Projects ✅
 
 - **Weeks**
-  1. ML Strategy
-  2. ML Strategy
+  1. ML Strategy ✅ 
+     1. Studied on:
+        1. Train/dev/test distributions
+        2. Comparison between human-level performance and machine learning system (avoidable bias - Bayes error)
+  2. ML Strategy ✅
+     1. Studied on:
+        1. Error Analysis
+        2. Mismatched Training and Dev/Test Set
+        3. Learning from Multiple Tasks (Transfer Learning - Multi-task learning)
 
 ## 04 - Convolutional Neural Networks
 
@@ -61,3 +69,11 @@ Prepared by Eda AYDIN
   2. Natural Language Processing & Word Embeddings
   3. Sequence Models & Attention Mechanism
   4. Transformer Network
+
+
+### Certificates
+- [01 - Neural Networks - Deep Learning](https://www.coursera.org/account/accomplishments/verify/RR6S899FDPLV)
+- [02 - Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/MCS66G2T8V3D)
+- [03 - Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/DWFKWJUAZZDG)
+- [04 - Convolutional Neural Networks]()
+- [05 - Sequence Models]()
