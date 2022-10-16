@@ -15,9 +15,16 @@ Prepared by Eda AYDIN
 
 - **Weeks**
   1. A New Programming Paradigm
-     1. [Ungraded Lab Assignment - Hello World](C1)
+     1. [Ungraded Lab: The Hello World of Deep Learning with Neural Networks](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/cf3476ce009cb8e909d67cb0cbe64975ea930bec/TensorFlow%20Developer%20Professional%20Certificate/01%20-%20Introduction%20to%20TensorFlow%20for%20AI,%20ML%20and%20DL/Week%2001/ungraded_lab/C1_W1_Lab_1_hello_world_nn.ipynb)
+     2. [Week 1 Assignment: Housing Prices](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/cf3476ce009cb8e909d67cb0cbe64975ea930bec/TensorFlow%20Developer%20Professional%20Certificate/01%20-%20Introduction%20to%20TensorFlow%20for%20AI,%20ML%20and%20DL/Week%2001/assignment/C1W1_Assignment.ipynb)
   2. Introduction to Computer Vision
+     1. [Ungraded Lab: Beyond Hello World, A Computer Vision Example](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/cf3476ce009cb8e909d67cb0cbe64975ea930bec/TensorFlow%20Developer%20Professional%20Certificate/01%20-%20Introduction%20to%20TensorFlow%20for%20AI,%20ML%20and%20DL/Week%2002/ungraded_labs/C1_W2_Lab_1_beyond_hello_world.ipynb)
+     2. [Ungraded Lab: Using Callbacks to Control Training](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/cf3476ce009cb8e909d67cb0cbe64975ea930bec/TensorFlow%20Developer%20Professional%20Certificate/01%20-%20Introduction%20to%20TensorFlow%20for%20AI,%20ML%20and%20DL/Week%2002/ungraded_labs/C1_W2_Lab_2_callbacks.ipynb)
+     3. [Week 2: Implementing Callbacks in TensorFlow using the MNIST Dataset](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/cf3476ce009cb8e909d67cb0cbe64975ea930bec/TensorFlow%20Developer%20Professional%20Certificate/01%20-%20Introduction%20to%20TensorFlow%20for%20AI,%20ML%20and%20DL/Week%2002/assignment/C1W2_Assignment.ipynb)
   3. Enhancing Vision with Convolutional Neural Networks
+     1. [Ungraded Lab: Improving Computer Vision Accuracy using Convolutions]()
+     2. [Ungraded Lab: Exploring Convolutions]()
+     3. [Week 3: Improve MNIST with Convolutions]()
   4. Using Real-world Images
 
 ## 02 - Convolutional Neural Networks in TensorFlow
@@ -43,3 +50,10 @@ Prepared by Eda AYDIN
   2. Deep Neural Networks for Time Series
   3. Recurrent Neural Networks for Time Series
   4. Real-world time series data
+
+
+### Certificates
+- []()
+- []()
+- []()
+- []()
