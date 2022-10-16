@@ -38,13 +38,21 @@ This program has been prepared in cooperation with UpSchool and Google Developer
       - [01 - Neural Networks and Deep Learning](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/tree/main/Deep%20Learning%20Specialization/01%20-%20Neural%20Networks%20-%20Deep%20Learning)
       - [02 - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/tree/main/Deep%20Learning%20Specialization/02%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization)
       - 03 - Structuring Machine Learning Projects
-      - 04 - Convolutional Neural Networks
+      - [04 - Convolutional Neural Networks](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/54ff6b96781bc6339df6e0d42e7a49bf27199cb2/Deep%20Learning%20Specialization/04%20-%20Convolutional%20Neural%20Networks)
       - 05 - Sequence Models
     - ***Professional Certificate in DeepLearning.AI TensorFlow Developer***
       - [01 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/d17b680840c89eddbbb86d84f068b081589f6610/TensorFlow%20Developer%20Professional%20Certificate/01%20-%20Introduction%20to%20TensorFlow%20for%20AI,%20ML%20and%20DL)
       - 02 - Convolutional Neural Networks in TensorFlow
       - 03 - Natural Language Processing in TensorFlow
       - 04 - Sequences, Time Series and Prediction
+
+### Optional Research Projects
+- **01 - Prediction of the Different Progressive Levels of Alzheimer's Disease** _(September, 2022)_
+- **02 - Prediction of the Different Progressive Levels of Alzheimer's Disease with MRI data** _(October, 2022)_
+
+### Capstone Project
+
+- **Low-Grade Glioma Segmentation** _(September - December,2022)_
 
 ### How did I get the right to participate in the training?
 
