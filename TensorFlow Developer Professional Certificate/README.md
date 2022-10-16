@@ -22,9 +22,9 @@ Prepared by Eda AYDIN
      2. [Ungraded Lab: Using Callbacks to Control Training](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/cf3476ce009cb8e909d67cb0cbe64975ea930bec/TensorFlow%20Developer%20Professional%20Certificate/01%20-%20Introduction%20to%20TensorFlow%20for%20AI,%20ML%20and%20DL/Week%2002/ungraded_labs/C1_W2_Lab_2_callbacks.ipynb)
      3. [Week 2: Implementing Callbacks in TensorFlow using the MNIST Dataset](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/cf3476ce009cb8e909d67cb0cbe64975ea930bec/TensorFlow%20Developer%20Professional%20Certificate/01%20-%20Introduction%20to%20TensorFlow%20for%20AI,%20ML%20and%20DL/Week%2002/assignment/C1W2_Assignment.ipynb)
   3. Enhancing Vision with Convolutional Neural Networks 
-     1. [Ungraded Lab: Improving Computer Vision Accuracy using Convolutions]()
-     2. [Ungraded Lab: Exploring Convolutions]()
-     3. [Week 3: Improve MNIST with Convolutions]()
+     1. [Ungraded Lab: Improving Computer Vision Accuracy using Convolutions](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/2b1855d60878bc4b3b9af2ec539ac5ac913c9a10/TensorFlow%20Developer%20Professional%20Certificate/01%20-%20Introduction%20to%20TensorFlow%20for%20AI,%20ML%20and%20DL/Week%2003/ungraded_labs/C1_W3_Lab_1.ipynb)
+     2. [Ungraded Lab: Exploring Convolutions](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/2b1855d60878bc4b3b9af2ec539ac5ac913c9a10/TensorFlow%20Developer%20Professional%20Certificate/01%20-%20Introduction%20to%20TensorFlow%20for%20AI,%20ML%20and%20DL/Week%2003/ungraded_labs/C1_W3_Lab_2_exploring_convolutions.ipynb)
+     3. [Week 3: Improve MNIST with Convolutions](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/2b1855d60878bc4b3b9af2ec539ac5ac913c9a10/TensorFlow%20Developer%20Professional%20Certificate/01%20-%20Introduction%20to%20TensorFlow%20for%20AI,%20ML%20and%20DL/Week%2003/assignment/C1W3_Assignment.ipynb)
   4. Using Real-world Images
 
 ## 02 - Convolutional Neural Networks in TensorFlow
