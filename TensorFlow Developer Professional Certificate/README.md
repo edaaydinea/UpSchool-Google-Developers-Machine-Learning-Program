@@ -34,8 +34,13 @@ Prepared by Eda AYDIN
 ## 02 - Convolutional Neural Networks in TensorFlow
 
 - **Weeks**
-  1. Exploring a Larger Dataset
-  2. Augmentation: A technique to avoid overfitting
+  1. Exploring a Larger Dataset ✅
+     1. [Ungraded Lab: Using more sophisticated images with Convolutional Neural Networks](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/f3986883aa97e19d31ee4cf8ea175f87fdcd92ef/TensorFlow%20Developer%20Professional%20Certificate/02%20-%20CNN%20in%20TensorFlow/W1/ungraded_lab/C2_W1_Lab_1_cats_vs_dogs.ipynb)
+     2. [Week 1: Using CNN's with the Cats vs Dogs Dataset](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/f3986883aa97e19d31ee4cf8ea175f87fdcd92ef/TensorFlow%20Developer%20Professional%20Certificate/02%20-%20CNN%20in%20TensorFlow/W1/assignment/C2W1_Assignment.ipynb)
+  2. Augmentation: A technique to avoid overfitting ✅
+     1. [Ungraded Lab: Data Augmentation](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/f3986883aa97e19d31ee4cf8ea175f87fdcd92ef/TensorFlow%20Developer%20Professional%20Certificate/02%20-%20CNN%20in%20TensorFlow/W2/ungraded_labs/C2_W2_Lab_1_cats_v_dogs_augmentation.ipynb)
+     2. [Ungraded Lab: Data Augmentation on the Horses or Humans Dataset](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/f3986883aa97e19d31ee4cf8ea175f87fdcd92ef/TensorFlow%20Developer%20Professional%20Certificate/02%20-%20CNN%20in%20TensorFlow/W2/ungraded_labs/C2_W2_Lab_2_horses_v_humans_augmentation.ipynb)
+     3. [Week 2: Tackle Overfitting with Data Augmentation](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/f3986883aa97e19d31ee4cf8ea175f87fdcd92ef/TensorFlow%20Developer%20Professional%20Certificate/02%20-%20CNN%20in%20TensorFlow/W2/assignment/C2W2_Assignment.ipynb)
   3. Transfer Learning
   4. Multiclass Classifications
 
