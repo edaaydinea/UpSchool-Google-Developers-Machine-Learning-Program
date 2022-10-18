@@ -42,13 +42,18 @@ This program has been prepared in cooperation with UpSchool and Google Developer
       - 05 - Sequence Models
     - ***Professional Certificate in DeepLearning.AI TensorFlow Developer***
       - [01 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/d17b680840c89eddbbb86d84f068b081589f6610/TensorFlow%20Developer%20Professional%20Certificate/01%20-%20Introduction%20to%20TensorFlow%20for%20AI,%20ML%20and%20DL)
-      - 02 - Convolutional Neural Networks in TensorFlow
+      - [02 - Convolutional Neural Networks in TensorFlow](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/aa8174f3711d79b11615982e9b2d3dfd84722019/TensorFlow%20Developer%20Professional%20Certificate/02%20-%20CNN%20in%20TensorFlow)
       - 03 - Natural Language Processing in TensorFlow
       - 04 - Sequences, Time Series and Prediction
+
+### Optional Homeworks
+- [Reduce the overfitting by using data augmentation](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/59bf9b27512747ad647b7285d2ab7099efc56dfe/Homeworks/1_image_classification_part2.ipynb)
+- [Reach at least 98% accuracy against the test set](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/aa8174f3711d79b11615982e9b2d3dfd84722019/Homeworks/2_Multi_class_classification_with_MNIST.ipynb)
 
 ### Optional Research Projects
 - **01 - Prediction of the Different Progressive Levels of Alzheimer's Disease** _(September, 2022)_
 - **02 - Prediction of the Different Progressive Levels of Alzheimer's Disease with MRI data** _(October, 2022)_
+
 
 ### Capstone Project
 
