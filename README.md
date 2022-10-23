@@ -51,8 +51,8 @@ This program has been prepared in cooperation with UpSchool and Google Developer
 - [Reach at least 98% accuracy against the test set](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/aa8174f3711d79b11615982e9b2d3dfd84722019/Homeworks/2_Multi_class_classification_with_MNIST.ipynb)
 
 ### Optional Research Projects
-- **01 - Prediction of the Different Progressive Levels of Alzheimer's Disease** _(September, 2022)_
-- **02 - Prediction of the Different Progressive Levels of Alzheimer's Disease with MRI data** _(October, 2022)_
+- [**01 - Prediction of the Different Progressive Levels of Alzheimer's Disease**](https://github.com/edaaydinea/Prediction-of-the-Different-Progressive-Levels-of-Alzheimer-s-Disease) _(September, 2022)_
+- [**02 - Prediction of the Different Progressive Levels of Alzheimer's Disease with MRI data**](https://github.com/edaaydinea/Prediction-of-the-Different-Progressive-Levels-of-Alzheimer-s-Disease-with-MRI-data) _(October, 2022)_
 
 
 ### Capstone Project
