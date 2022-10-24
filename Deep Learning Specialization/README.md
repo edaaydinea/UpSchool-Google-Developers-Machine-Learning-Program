@@ -2,14 +2,16 @@
 
 Prepared by Eda AYDIN
 
+Information about completion: ✅(Complete), 🚧 (Work in Progress), ❌ (Incomplete)
+
 ## Table of Contents
 
 - [Deep Learning Specialization](#deep-learning-specialization)
   - [Table of Contents](#table-of-contents)
   - [01 - Neural Networks - Deep Learning ✅](#01---neural-networks---deep-learning-)
   - [02 - Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimization ✅](#02---improving-deep-neural-networks-hyperparameter-tuning-regularization-and-optimization)
-  - [03 - Structuring Machine Learning Projects](#03---structuring-machine-learning-projects)
-  - [04 - Convolutional Neural Networks](#04---convolutional-neural-networks)
+  - [03 - Structuring Machine Learning Projects ✅](#03---structuring-machine-learning-projects)
+  - [04 - Convolutional Neural Networks 🚧](#04---convolutional-neural-networks)
   - [05 - Sequence Models](#05---sequence-models)
 - [Certificates](#-certificates)
 
@@ -54,7 +56,7 @@ Prepared by Eda AYDIN
         2. Mismatched Training and Dev/Test Set
         3. Learning from Multiple Tasks (Transfer Learning - Multi-task learning)
 
-## 04 - Convolutional Neural Networks
+## 04 - Convolutional Neural Networks 🚧
 
 - **Weeks**
   1. Foundations of Convolutional Neural Networks ✅
@@ -63,7 +65,7 @@ Prepared by Eda AYDIN
   2. Deep Convolutional Models: Case Studies ✅
      1. [Residual Networks](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/591020de97a8d8ad0c9112a7d8be1cc10ceea77d/Deep%20Learning%20Specialization/04%20-%20Convolutional%20Neural%20Networks/Week%2002/Residual_Networks.ipynb)
      2. [Transfer Learning with MobileNet](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/591020de97a8d8ad0c9112a7d8be1cc10ceea77d/Deep%20Learning%20Specialization/04%20-%20Convolutional%20Neural%20Networks/Week%2002/Transfer_learning_with_MobileNet_v1.ipynb)
-  3. Object Detection
+  3. Object Detection 🚧
   4. Special Applications: Face recognition & Neural Style Transfer
 
 ## 05 - Sequence Models
