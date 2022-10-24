@@ -2,14 +2,18 @@
 
 Prepared by Eda AYDIN
 
+Information about completion: ✅(Complete), 🚧 (Work in Progress), ❌ (Incomplete)
+
 ## Table of Contents
 
 - [Professional Certificate -  DeepLearning.AI TensorFlow Developer](#professional-certificate----deeplearningai-tensorflow-developer)
   - [Table of Contents](#table-of-contents)
   - [01 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning ✅](#01---introduction-to-tensorflow-for-artificial-intelligence-machine-learning-and-deep-learning-)
-  - [02 - Convolutional Neural Networks in TensorFlow](#02---convolutional-neural-networks-in-tensorflow)
-  - [03 - Natural Language Processing in TensorFlow](#03---natural-language-processing-in-tensorflow)
+  - [02 - Convolutional Neural Networks in TensorFlow ✅](#02---convolutional-neural-networks-in-tensorflow-)
+  - [03 - Natural Language Processing in TensorFlow 🚧](#03---natural-language-processing-in-tensorflow-)
   - [04 - Sequences, Time Series and Prediction](#04---sequences-time-series-and-prediction)
+- [Certificates](#certificates)
+
 
 ## 01 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning  ✅
 
@@ -31,7 +35,7 @@ Prepared by Eda AYDIN
      3. [Ungraded Lab: Effect of Compacted Images in Training](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/a3179f1d341157186d922a4c82f5fd2e87825b2f/TensorFlow%20Developer%20Professional%20Certificate/01%20-%20Introduction%20to%20TensorFlow%20for%20AI,%20ML%20and%20DL/Week%2004/ungraded_labs/C1_W4_Lab_3_compacted_images.ipynb)
      4. [Week 4: Handling Complex Images - Happy or Sad Dataset](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/a3179f1d341157186d922a4c82f5fd2e87825b2f/TensorFlow%20Developer%20Professional%20Certificate/01%20-%20Introduction%20to%20TensorFlow%20for%20AI,%20ML%20and%20DL/Week%2004/assignment/C1W4_Assignment.ipynb)
 
-## 02 - Convolutional Neural Networks in TensorFlow
+## 02 - Convolutional Neural Networks in TensorFlow ✅
 
 - **Weeks**
   1. Exploring a Larger Dataset ✅
@@ -41,13 +45,17 @@ Prepared by Eda AYDIN
      1. [Ungraded Lab: Data Augmentation](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/f3986883aa97e19d31ee4cf8ea175f87fdcd92ef/TensorFlow%20Developer%20Professional%20Certificate/02%20-%20CNN%20in%20TensorFlow/W2/ungraded_labs/C2_W2_Lab_1_cats_v_dogs_augmentation.ipynb)
      2. [Ungraded Lab: Data Augmentation on the Horses or Humans Dataset](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/f3986883aa97e19d31ee4cf8ea175f87fdcd92ef/TensorFlow%20Developer%20Professional%20Certificate/02%20-%20CNN%20in%20TensorFlow/W2/ungraded_labs/C2_W2_Lab_2_horses_v_humans_augmentation.ipynb)
      3. [Week 2: Tackle Overfitting with Data Augmentation](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/f3986883aa97e19d31ee4cf8ea175f87fdcd92ef/TensorFlow%20Developer%20Professional%20Certificate/02%20-%20CNN%20in%20TensorFlow/W2/assignment/C2W2_Assignment.ipynb)
-  3. Transfer Learning
-  4. Multiclass Classifications
+  3. Transfer Learning ✅
+     1. [Ungraded Lab: Transfer Learning](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/edcb006a3273b9cbf86c9d6095fc27c4e52ca8e9/TensorFlow%20Developer%20Professional%20Certificate/02%20-%20CNN%20in%20TensorFlow/W3/ungraded_lab/C2_W3_Lab_1_transfer_learning.ipynb)
+     2. [Week 3: Transfer Learning](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/edcb006a3273b9cbf86c9d6095fc27c4e52ca8e9/TensorFlow%20Developer%20Professional%20Certificate/02%20-%20CNN%20in%20TensorFlow/W3/assignment/C2W3_Assignment.ipynb)
+  4. Multiclass Classifications ✅
+     1. [Ungraded Lab: Multi-class Classifier](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/edcb006a3273b9cbf86c9d6095fc27c4e52ca8e9/TensorFlow%20Developer%20Professional%20Certificate/02%20-%20CNN%20in%20TensorFlow/W4/ungraded_lab/C2_W4_Lab_1_multi_class_classifier.ipynb)
+     2. [Week 4: Multi-class Classification](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/edcb006a3273b9cbf86c9d6095fc27c4e52ca8e9/TensorFlow%20Developer%20Professional%20Certificate/02%20-%20CNN%20in%20TensorFlow/W4/assignment/C2W4_Assignment.ipynb)
 
-## 03 - Natural Language Processing in TensorFlow
+## 03 - Natural Language Processing in TensorFlow 🚧
 
 - **Weeks**
-  1. Sentiment in text
+  1. Sentiment in text 🚧
   2. Word Embeddings
   3. Sequence models
   4. Sequence models and literature
@@ -63,6 +71,6 @@ Prepared by Eda AYDIN
 
 ### Certificates
 - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning ](https://coursera.org/share/9c1d273b7cf0da6218dbcd28cac4ce3c)
-- [Convolutional Neural Networks in TensorFlow]()
+- [Convolutional Neural Networks in TensorFlow](https://coursera.org/share/74d0ad6a2ebb89205ac9ed28c36fb2d7)
 - [Natural Language Processing in TensorFlow]()
 - [Sequences, Time Series and Prediction]()
