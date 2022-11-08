@@ -9,11 +9,11 @@ Information about completion: ✅(Complete), 🚧 (Work in Progress), ❌ (Incom
 - [Deep Learning Specialization](#deep-learning-specialization)
   - [Table of Contents](#table-of-contents)
   - [01 - Neural Networks - Deep Learning ✅](#01---neural-networks---deep-learning-)
-  - [02 - Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimization ✅](#02---improving-deep-neural-networks-hyperparameter-tuning-regularization-and-optimization)
-  - [03 - Structuring Machine Learning Projects ✅](#03---structuring-machine-learning-projects)
-  - [04 - Convolutional Neural Networks 🚧](#04---convolutional-neural-networks)
-  - [05 - Sequence Models](#05---sequence-models)
-- [Certificates](#-certificates)
+  - [02 - Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimization ✅](#02---improving-deep-neural-networks-hyperparameter-tuning-regularization-and-optimization-)
+  - [03 - Structuring Machine Learning Projects ✅](#03---structuring-machine-learning-projects-)
+  - [04 - Convolutional Neural Networks ✅](#04---convolutional-neural-networks-)
+  - [05 - Sequence Models 🚧](#05---sequence-models-)
+    - [Certificates](#certificates)
 
 ## 01 - Neural Networks - Deep Learning ✅
 
@@ -24,9 +24,9 @@ Information about completion: ✅(Complete), 🚧 (Work in Progress), ❌ (Incom
      2. [NumPy Vectors](01%20-%20Neural%20Networks%20-%20Deep%20Learning/Week%2002/NumPy%20Vectors.ipynb)
      3. [Python Basics with NumPy](01%20-%20Neural%20Networks%20-%20Deep%20Learning/Week%2002/Python_Basics_with_Numpy.ipynb)
      4. [Logistic Regression with a Neural Networks mindset](01%20-%20Neural%20Networks%20-%20Deep%20Learning/Week%2002/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
-  4. Shallow Neural Networks ✅
+  3. Shallow Neural Networks ✅
      1. [Planar Data Classification with One Hidden Layer](01%20-%20Neural%20Networks%20-%20Deep%20Learning/Week%2003/Planar_data_classification_with_one_hidden_layer.ipynb)
-  5. Deep Neural Networks ✅
+  4. Deep Neural Networks ✅
      1. [Deep Neural Networks - Applications](01%20-%20Neural%20Networks%20-%20Deep%20Learning/Week%2004/Deep%20Neural%20Network%20-%20Application.ipynb)
      2. [Building your Deep Neural Networks Step by Step](01%20-%20Neural%20Networks%20-%20Deep%20Learning/Week%2004/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
 
@@ -56,7 +56,7 @@ Information about completion: ✅(Complete), 🚧 (Work in Progress), ❌ (Incom
         2. Mismatched Training and Dev/Test Set
         3. Learning from Multiple Tasks (Transfer Learning - Multi-task learning)
 
-## 04 - Convolutional Neural Networks 🚧
+## 04 - Convolutional Neural Networks ✅
 
 - **Weeks**
   1. Foundations of Convolutional Neural Networks ✅
@@ -65,21 +65,25 @@ Information about completion: ✅(Complete), 🚧 (Work in Progress), ❌ (Incom
   2. Deep Convolutional Models: Case Studies ✅
      1. [Residual Networks](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/591020de97a8d8ad0c9112a7d8be1cc10ceea77d/Deep%20Learning%20Specialization/04%20-%20Convolutional%20Neural%20Networks/Week%2002/Residual_Networks.ipynb)
      2. [Transfer Learning with MobileNet](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/591020de97a8d8ad0c9112a7d8be1cc10ceea77d/Deep%20Learning%20Specialization/04%20-%20Convolutional%20Neural%20Networks/Week%2002/Transfer_learning_with_MobileNet_v1.ipynb)
-  3. Object Detection 🚧
-  4. Special Applications: Face recognition & Neural Style Transfer
+  3. Object Detection ✅
+     1. [Autonomous Driving - Car Detection](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/main/Deep%20Learning%20Specialization/04%20-%20Convolutional%20Neural%20Networks/Week%2003/Autonomous_driving_application_Car_detection.ipynb)
+  4. Special Applications: Face recognition & Neural Style Transfer ✅
+     1. [Face Recognition](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/main/Deep%20Learning%20Specialization/04%20-%20Convolutional%20Neural%20Networks/Week%2004/Face_Recognition.ipynb)
+     2. [Deep Learning & Art: Neural Style Transfer](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/main/Deep%20Learning%20Specialization/04%20-%20Convolutional%20Neural%20Networks/Week%2004/Art_Generation_with_Neural_Style_Transfer.ipynb)
 
-## 05 - Sequence Models
+## 05 - Sequence Models 🚧
 
 - **Weeks**
-  1. Recurrent Neural Networks
+  1. Recurrent Neural Networks 🚧
   2. Natural Language Processing & Word Embeddings
   3. Sequence Models & Attention Mechanism
   4. Transformer Network
 
 
 ### Certificates
+
 - [01 - Neural Networks - Deep Learning](https://www.coursera.org/account/accomplishments/verify/RR6S899FDPLV)
 - [02 - Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/MCS66G2T8V3D)
 - [03 - Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/DWFKWJUAZZDG)
-- [04 - Convolutional Neural Networks]()
+- [04 - Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/MDVH49VMEGLP)
 - [05 - Sequence Models]()
