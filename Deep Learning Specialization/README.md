@@ -9,11 +9,11 @@ Information about completion: ✅(Complete), 🚧 (Work in Progress), ❌ (Incom
 - [Deep Learning Specialization](#deep-learning-specialization)
   - [Table of Contents](#table-of-contents)
   - [01 - Neural Networks - Deep Learning ✅](#01---neural-networks---deep-learning-)
-  - [02 - Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimization ✅](#02---improving-deep-neural-networks-hyperparameter-tuning-regularization-and-optimization)
-  - [03 - Structuring Machine Learning Projects ✅](#03---structuring-machine-learning-projects)
-  - [04 - Convolutional Neural Networks 🚧](#04---convolutional-neural-networks)
-  - [05 - Sequence Models](#05---sequence-models)
-- [Certificates](#-certificates)
+  - [02 - Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimization ✅](#02---improving-deep-neural-networks-hyperparameter-tuning-regularization-and-optimization-)
+  - [03 - Structuring Machine Learning Projects ✅](#03---structuring-machine-learning-projects-)
+  - [04 - Convolutional Neural Networks ✅](#04---convolutional-neural-networks-)
+  - [05 - Sequence Models 🚧](#05---sequence-models-)
+    - [Certificates](#certificates)
 
 ## 01 - Neural Networks - Deep Learning ✅
 
@@ -66,8 +66,10 @@ Information about completion: ✅(Complete), 🚧 (Work in Progress), ❌ (Incom
      1. [Residual Networks](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/591020de97a8d8ad0c9112a7d8be1cc10ceea77d/Deep%20Learning%20Specialization/04%20-%20Convolutional%20Neural%20Networks/Week%2002/Residual_Networks.ipynb)
      2. [Transfer Learning with MobileNet](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/591020de97a8d8ad0c9112a7d8be1cc10ceea77d/Deep%20Learning%20Specialization/04%20-%20Convolutional%20Neural%20Networks/Week%2002/Transfer_learning_with_MobileNet_v1.ipynb)
   3. Object Detection ✅
-  
+     1. [Autonomous Driving - Car Detection](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/main/Deep%20Learning%20Specialization/04%20-%20Convolutional%20Neural%20Networks/Week%2003/Autonomous_driving_application_Car_detection.ipynb)
   4. Special Applications: Face recognition & Neural Style Transfer ✅
+     1. [Face Recognition](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/main/Deep%20Learning%20Specialization/04%20-%20Convolutional%20Neural%20Networks/Week%2004/Face_Recognition.ipynb)
+     2. [Deep Learning & Art: Neural Style Transfer](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/main/Deep%20Learning%20Specialization/04%20-%20Convolutional%20Neural%20Networks/Week%2004/Art_Generation_with_Neural_Style_Transfer.ipynb)
 
 ## 05 - Sequence Models 🚧
 
@@ -79,8 +81,9 @@ Information about completion: ✅(Complete), 🚧 (Work in Progress), ❌ (Incom
 
 
 ### Certificates
+
 - [01 - Neural Networks - Deep Learning](https://www.coursera.org/account/accomplishments/verify/RR6S899FDPLV)
 - [02 - Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/MCS66G2T8V3D)
 - [03 - Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/DWFKWJUAZZDG)
-- [04 - Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/MDVH49VMEGLP)
+- [04 - Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/MDVH49VMEGLP)
 - [05 - Sequence Models]()
