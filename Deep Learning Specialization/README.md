@@ -74,8 +74,8 @@ Information about completion: ✅(Complete), 🚧 (Work in Progress), ❌ (Incom
 ## 05 - Sequence Models 🚧
 
 - **Weeks**
-  1. Recurrent Neural Networks 🚧
-  2. Natural Language Processing & Word Embeddings
+  1. Recurrent Neural Networks ✅
+  2. Natural Language Processing & Word Embeddings 🚧
   3. Sequence Models & Attention Mechanism
   4. Transformer Network
 
