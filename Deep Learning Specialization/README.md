@@ -12,7 +12,7 @@ Information about completion: ✅(Complete), 🚧 (Work in Progress), ❌ (Incom
   - [02 - Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimization ✅](#02---improving-deep-neural-networks-hyperparameter-tuning-regularization-and-optimization-)
   - [03 - Structuring Machine Learning Projects ✅](#03---structuring-machine-learning-projects-)
   - [04 - Convolutional Neural Networks ✅](#04---convolutional-neural-networks-)
-  - [05 - Sequence Models 🚧](#05---sequence-models-)
+  - [05 - Sequence Models ✅](#05---sequence-models-)
     - [Certificates](#certificates)
 
 ## 01 - Neural Networks - Deep Learning ✅
