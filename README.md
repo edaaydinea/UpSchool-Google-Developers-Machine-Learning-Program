@@ -58,7 +58,7 @@ Information about completion: ✅(Complete), 🚧 (Work in Progress), ❌ (Incom
 
 ### Capstone Project
 
-- 🚧 **Low-Grade Glioma Segmentation** _(October 2022 - January, 2023)_
+- 🚧 **Low-Grade Glioma Segmentation** _(November 2022 - January, 2023)_
   - Proposal Deadline: October 31, 2022
   - Project Deadline: December 7, 2022
   
@@ -67,9 +67,11 @@ Information about completion: ✅(Complete), 🚧 (Work in Progress), ❌ (Incom
 - 🚧**TensorFlow Developer Certification Exam** (December 3- 11, 2022)
 
 ### Certificates and Badges
-| Certification Name	          | Certificates	                                                                                                                                                                                                                                       | Badges |
-|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| Deep Learning Specialization | [Deep Learning Specialization](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/4765a1365b404fc9185686fd3dff9045d1e6f18c/Deep%20Learning%20Specialization/Deep%20Learning%20Specialization%20Certificate.png) |        |
+| Date             | Certification Name	                                 | Certificates	                                              | Badges                      |
+|------------------|-----------------------------------------------------|------------------------------------------------------------|-----------------------------|
+| November 29,2022 | Deep Learning Specialization                        | ![](Pictures/Deep Learning Specialization Certificate.png) | ![](Pictures/DLS_Badge.png) |
+|                  | DeepLearning.AI TensorFlow Professional Certificate |                                                            |                             |
+|                  | TensorFlow Certificate Exam                         |                                                            |                             |
 
 ### How did I get the right to participate in the training?
 
