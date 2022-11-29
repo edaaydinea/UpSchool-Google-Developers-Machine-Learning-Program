@@ -69,7 +69,7 @@ Information about completion: ✅(Complete), 🚧 (Work in Progress), ❌ (Incom
 ### Certificates and Badges
 | Date             | Certification Name	                                 | Certificates	                                              | Badges                      |
 |------------------|-----------------------------------------------------|------------------------------------------------------------|-----------------------------|
-| November 29,2022 | Deep Learning Specialization                        | ![](Pictures/Deep Learning Specialization Certificate.png) | ![](Pictures/DLS_Badge.png) |
+| November 29,2022 | Deep Learning Specialization                        | ![](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/0ec40363df3166acbb96dff66c9083e5184788e5/Pictures/Deep%20Learning%20Specialization%20Certificate.png) | ![](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/0ec40363df3166acbb96dff66c9083e5184788e5/Pictures/DLS_Badge.png) |
 |                  | DeepLearning.AI TensorFlow Professional Certificate |                                                            |                             |
 |                  | TensorFlow Certificate Exam                         |                                                            |                             |
 
