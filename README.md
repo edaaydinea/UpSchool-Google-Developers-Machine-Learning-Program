@@ -41,12 +41,12 @@ Information about completion: ✅(Complete), 🚧 (Work in Progress), ❌ (Incom
       - ✅[02 - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/tree/main/Deep%20Learning%20Specialization/02%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization)
       - ✅03 - Structuring Machine Learning Projects
       - ✅[04 - Convolutional Neural Networks](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/54ff6b96781bc6339df6e0d42e7a49bf27199cb2/Deep%20Learning%20Specialization/04%20-%20Convolutional%20Neural%20Networks)
-      - 🚧05 - Sequence Models
+      - ✅[05 - Sequence Models](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/a70d12ea1443d23cb327159bb81f73f97a4256eb/Deep%20Learning%20Specialization/05%20-%20Sequential%20Models)
     - ***Professional Certificate in DeepLearning.AI TensorFlow Developer***
       - ✅[01 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/d17b680840c89eddbbb86d84f068b081589f6610/TensorFlow%20Developer%20Professional%20Certificate/01%20-%20Introduction%20to%20TensorFlow%20for%20AI,%20ML%20and%20DL)
       - ✅[02 - Convolutional Neural Networks in TensorFlow](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/aa8174f3711d79b11615982e9b2d3dfd84722019/TensorFlow%20Developer%20Professional%20Certificate/02%20-%20CNN%20in%20TensorFlow)
-      - 🚧03 - Natural Language Processing in TensorFlow
-      - 04 - Sequences, Time Series and Prediction
+      - ✅[03 - Natural Language Processing in TensorFlow](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/a70d12ea1443d23cb327159bb81f73f97a4256eb/TensorFlow%20Developer%20Professional%20Certificate/03%20-%20NLP%20in%20TensorFlow)
+      - 🚧[04 - Sequences, Time Series and Prediction]()
 
 ### Optional Homeworks
 - ✅[Reduce the overfitting by using data augmentation](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/59bf9b27512747ad647b7285d2ab7099efc56dfe/Homeworks/1_image_classification_part2.ipynb)
@@ -65,6 +65,11 @@ Information about completion: ✅(Complete), 🚧 (Work in Progress), ❌ (Incom
 ### Bootcamp Exams
 
 - 🚧**TensorFlow Developer Certification Exam** (December 3- 11, 2022)
+
+### Certificates and Badges
+| Certification Name	          | Certificates	                                                                                                                                                                                                                                       | Badges |
+|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| Deep Learning Specialization | [Deep Learning Specialization](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/4765a1365b404fc9185686fd3dff9045d1e6f18c/Deep%20Learning%20Specialization/Deep%20Learning%20Specialization%20Certificate.png) |        |
 
 ### How did I get the right to participate in the training?
 
