@@ -96,7 +96,7 @@ Information about completion: ✅(Complete), 🚧 (Work in Progress), ❌ (Incom
 - [04 - Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/MDVH49VMEGLP)
 - [05 - Sequence Models](https://www.coursera.org/account/accomplishments/certificate/ZHQJF9QEVYUL)
 
-| Date             | Certification Name	          | Certificates	                               | Badges                      |
-|------------------|------------------------------|---------------------------------------------|-----------------------------|
-| November 29,2022 | Deep Learning Specialization | ![](Pictures/Deep Learning Specialization Certificate.png) | ![](Pictures/DLS_Badge.png) |
+| Date             | Certification Name	          | Certificates	                                                                                                                                                                                    | Badges                                                                                                                                                      |
+|------------------|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| November 29,2022 | Deep Learning Specialization | ![](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/4c29ed9b09b615f872b326be48fce9dd8ed5e924/Pictures/Deep%20Learning%20Specialization%20Certificate.png) | ![](https://github.com/edaaydinea/UpSchool-Google-Developers-Machine-Learning-Program/blob/4c29ed9b09b615f872b326be48fce9dd8ed5e924/Pictures/DLS_Badge.png) |
 
