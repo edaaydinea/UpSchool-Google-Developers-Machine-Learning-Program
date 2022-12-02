@@ -10,8 +10,8 @@ Information about completion: ✅(Complete), 🚧 (Work in Progress), ❌ (Incom
   - [Table of Contents](#table-of-contents)
   - [01 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning ✅](#01---introduction-to-tensorflow-for-artificial-intelligence-machine-learning-and-deep-learning-)
   - [02 - Convolutional Neural Networks in TensorFlow ✅](#02---convolutional-neural-networks-in-tensorflow-)
-  - [03 - Natural Language Processing in TensorFlow 🚧](#03---natural-language-processing-in-tensorflow-)
-  - [04 - Sequences, Time Series and Prediction](#04---sequences-time-series-and-prediction)
+  - [03 - Natural Language Processing in TensorFlow ✅](#03---natural-language-processing-in-tensorflow-)
+  - [04 - Sequences, Time Series and Prediction ✅](#04---sequences-time-series-and-prediction)
 - [Certificates](#certificates)
 
 
