@@ -64,7 +64,8 @@ Information about completion: ✅(Complete), 🚧 (Work in Progress), ❌ (Incom
   
 ### Bootcamp Exams
 
-- 🚧**TensorFlow Developer Certification Exam** (December 3- 11, 2022)
+- ✅**TensorFlow Developer Certification Exam** (December 3- 11, 2022)
+  - I passed the exam on December 7,2022.
 
 ### Certificates and Badges
 | Date             | Certification Name	                                 | Certificates	                                                                                                                                                                                                                                          | Badges                                                                                                                                                      |
