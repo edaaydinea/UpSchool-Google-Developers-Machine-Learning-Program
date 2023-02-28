@@ -58,9 +58,9 @@ Information about completion: ✅(Complete), 🚧 (Work in Progress), ❌ (Incom
 
 ### Capstone Project
 
-- 🚧 **Low-Grade Glioma Segmentation** _(November 2022 - January, 2023)_
+- ✅[**Low-Grade Glioma Segmentation**](https://github.com/edaaydinea/Low-Grade-Glioma-Segmentation) _(November 2022 - January, 2023)_
   - Proposal Deadline: October 31, 2022
-  - Project Deadline: December 7, 2022
+  - Project Deadline: January 30, 2023
   
 ### Bootcamp Exams
 
